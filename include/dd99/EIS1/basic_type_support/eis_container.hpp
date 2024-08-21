@@ -2,6 +2,7 @@
 
 #include <dd99/EIS1/eis_implementation.hpp>
 #include <stdexcept>
+#include <cstdint>
 #include <limits>
 
 
